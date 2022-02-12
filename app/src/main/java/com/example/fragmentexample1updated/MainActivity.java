@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
 
         mOpenButton.setText(R.string.close);
 
+        isFragmentDisplayed = false;
+
 
 
 
